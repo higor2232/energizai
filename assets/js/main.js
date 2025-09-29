@@ -293,7 +293,7 @@ pricingCards.forEach(card => {
 const footerYear = document.querySelector('.footer-bottom p');
 if (footerYear) {
     const year = new Date().getFullYear();
-    footerYear.innerHTML = `&copy; ${year} EnergiAI. Todos os direitos reservados.`;
+    footerYear.innerHTML = `&copy; ${year} CesAI. Todos os direitos reservados.`;
 }
 
 // ===========================
